@@ -17,10 +17,10 @@ public class planet{
  public int getNumber(){
   return number;
  }
- public double getMass(){
+ public double getSize(){
   return size;
  }
- public int getSat(){
+ public int getSatCount(){
   return satCount;
  }
  public int compare(planet p){
